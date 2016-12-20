@@ -16,8 +16,8 @@ dbHelper.open();
 int res = dbHelper.insertData(<Required Parameter>);  
 if (res > 0) {  
   //Success  
-}else{  
-	//Error  
+}else{
+  //Error  
 }  
 ```
 4). Close Helper  
